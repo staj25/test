@@ -1,4 +1,4 @@
-********
+NTP SERVICE ADDED TO TIME SYNC IS CORRECT ********
 
 git hub is really kool
 
